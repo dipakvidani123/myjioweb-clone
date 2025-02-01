@@ -1,0 +1,71 @@
+.navbar{
+    background-color: #0f3cc9;
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.badge {
+    background-color: red;
+    color: white;
+    height: 1.5rem;
+    /* padding: 4px 8px; */
+    width: 4rem;
+    text-align: center;
+    border-radius: .5rem;
+    font-size: 1rem;
+  }
+
+.links-nav span{
+    margin: 0;
+        margin-left: 2.3rem;
+}
+
+.logo-nav{
+    display: flex;
+}
+
+.jiologo img{
+    height: 2.5rem;
+    /* padding-left: 100px; */
+}
+
+.links-nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.links-nav a{
+    margin: 1.5rem;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.links-nav a:hover{
+    margin: 1.5rem;
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 0.603);
+    font-weight: 700;
+}
+
+.search-login{
+    margin-left: 10rem;
+}
+
+.search-login img{
+    height: 2rem;
+    background-color: white;
+    border-radius: 50%;
+    margin: .7rem;
+} 
+
+.search-login img:hover{
+    height: 2rem;
+    background-color: white;
+    border-radius: 50%;
+    margin: .7rem;
+    opacity: .8;
+} 
