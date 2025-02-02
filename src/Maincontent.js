@@ -1,3 +1,4 @@
+import Faq from './Faq';
 import './Maincontent.css'
 
 function Maincontent () {
@@ -16,6 +17,8 @@ function Maincontent () {
                 <Testimonials />
 
                 <JioAds />
+
+                <Faq />
         
         </>
 

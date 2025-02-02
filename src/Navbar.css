@@ -7,28 +7,37 @@
     justify-content: center;
 }
 
+
+.badge-div{
+    height: 4rem;
+    /* text-align: center; */
+    /* background-color: black; */
+}
+
 .badge {
     background-color: red;
     color: white;
-    height: 1.5rem;
-    /* padding: 4px 8px; */
-    width: 4rem;
+    height: 0rem;
+    padding: 0rem .6rem;
+    width: 10rem; 
     text-align: center;
-    border-radius: .5rem;
-    font-size: 1rem;
-  }
+    border-radius: .9rem;
+    font-size: .7rem;
+  } 
 
 .links-nav span{
     margin: 0;
-        margin-left: 2.3rem;
+    margin-left: 1.9rem;
 }
 
 .logo-nav{
     display: flex;
+    align-items: center;
 }
 
 .jiologo img{
     height: 2.5rem;
+    cursor: pointer;
     /* padding-left: 100px; */
 }
 
@@ -56,16 +65,19 @@
 }
 
 .search-login img{
-    height: 2rem;
+    height: 1.5rem;
+    width: 1.5rem;
     background-color: white;
-    border-radius: 50%;
-    margin: .7rem;
+    border-radius: 10rem;
+    padding: .3rem;
+    margin: .5rem;
+    cursor: pointer;
 } 
 
 .search-login img:hover{
     height: 2rem;
     background-color: white;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     margin: .7rem;
     opacity: .8;
 } 

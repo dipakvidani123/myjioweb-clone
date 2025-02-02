@@ -17,7 +17,7 @@ function Navbar () {
                         <div><a href="/">Mobile</a></div>
                         <div><a href="/">True 5G</a></div>
                         <div><a href="/">JioFiber</a> </div>
-                        <div>
+                        <div className='badge-div'>
                             <span class="badge">New</span>  <br />
                             <a href="/">AirFiber</a></div>
                         <div><a href="/">Business</a></div>
@@ -29,8 +29,8 @@ function Navbar () {
                 </div>            
 
                 <div className="search-login">
-                    <img src="https://tse3.mm.bing.net/th?id=OIP.KWSsBYMfXfzdlrDZlQPA-wAAAA&pid=Api&P=0&h=180" alt="" />
-                    <img src="https://tse1.mm.bing.net/th?id=OIP.rcgY01LTCMJTv42lgWJpigHaHw&pid=Api&P=0&h=180" alt="" />
+                    <img src="https://www.freeiconspng.com/thumbs/search-icon-png/search-icon-png-5.png" alt="" />
+                    <img src="https://icon-library.com/images/profile-png-icon/profile-png-icon-2.jpg" alt="" />
                 </div>
 
             </div>
